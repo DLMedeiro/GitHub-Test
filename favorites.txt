@@ -1,4 +1,12 @@
+Favorites Lists
+
 Favorite Foods
 - Potatoes
 - Chocolate
 - Cheese
+
+Favorite Movies
+- Dazed and Confused
+- Old School
+- The Birdcage
+
